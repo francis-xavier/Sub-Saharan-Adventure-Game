@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InventoryOnOff.js">
+    <Files>
+      <File FileName="Assets\Additional\Standard Assets\Cameras\Scripts\FreeLookCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Additional\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Additional\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InventoryOnOff.js" Line="7" Column="27" />
+      <File FileName="Assets\Scripts\AxePickup.js" Line="21" Column="4" />
+      <File FileName="Assets\Scripts\TitleRotate.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadAndNew.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleButtons.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\000_AreaStart.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InventoryScripts\ShowSelectPanel.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InventoryScripts\AxeInfoPanel.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AnimateWeapon.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinCollect.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinSpin.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quests\MainQuests\001_QuestBegin.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quests\Quest001_Active.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quests\Quest001_Start.js" Line="1" Column="1" />
+      <File FileName="Assets\Additional\Standard Assets\Environment\Water\Water\Scripts\Water.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Area001Loader.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
